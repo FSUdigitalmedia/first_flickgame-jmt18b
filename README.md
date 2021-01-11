@@ -1,6 +1,6 @@
-# Your Flick Game Title Goes Here
+# What Came First the Chicken or the Egg?
 
 ## Description
 
-Description of the game goes here.
+A Flick Game where you click the chicken as fast as possible
 
